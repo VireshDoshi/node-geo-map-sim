@@ -81,5 +81,7 @@ map.addLayer({
 
 # Technical detils
 
+1. `couchdb` - use docker-compose to spin up
+2.  
 # What can you do with this Repo?
 # How to run this demo?
